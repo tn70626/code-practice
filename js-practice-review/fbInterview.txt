@@ -1,0 +1,15 @@
+#1
+override the window setTimeout
+to create a clearAllTimeouts()
+
+# 2
+how do find x
+DOMStringList
+
+a
+0 0
+0 x 0 0
+
+b
+0 0
+0 y 0 0

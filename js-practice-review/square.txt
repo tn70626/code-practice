@@ -1,0 +1,11 @@
+Task #2 - Add "{numActiveTodos} item(s) left" status in footer
+- Reference image: https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-640/todo-static.png
+- The number is a count of to-dos that have not been completed.
+- The positioning should be similar to the static image. It doesn’t have to be pixel perfect.
+
+
+Task #3 - Add "Clear completed" button in footer
+- Clicking the button removes all the completed todos.
+- Button is right-aligned and vertically centered inside the footer.
+- Button is ONLY VISIBLE if there are completed todos, otherwise invisible.
+- Style the button so it appears the same as in the static image.

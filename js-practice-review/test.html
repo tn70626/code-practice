@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fetching Sandbox</title>
+  </head>
+  <body>
+    <h1>Fetching Sandbox</h1>
+    <div class="container"></div>
+  </body>
+  <script>
+    function sum() {
+      for (var i = 0; i < arguments.length; i++) {
+        console.log(arguments[i]);
+      }
+      // const total = args.reduce((acc, curr) => {
+      //   if (Number.isInteger(curr)) {
+      //     return acc + curr;
+      //   }
+      //   return acc;
+      // }, 0);
+      // return total;
+    }
+    // console.log(sum(1, 2, 3, 4, 5));
+    sum(1, 2, 3, 4, 5);
+  </script>
+</html>

@@ -1,0 +1,25 @@
+Vue Lifecycle hooks
+before
+create
+mounted
+
+beforeDestroy
+destroy
+
+callbacks, aysnc await, 
+promise - an object that may produce a value sometime in the future
+scope
+var - global or function scope
+const/let - blocked scope
+const - can't be reassigned
+
+React Lifecycle
+componentDidMount
+render
+
+data algorithms
+string manipulation,
+reverse a string,
+fibonacci,
+palindrome
+

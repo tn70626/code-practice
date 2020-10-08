@@ -1,0 +1,24 @@
+{
+    "emmet.includeLanguages": {
+       "javascript": "javascriptreact"
+    },
+    "editor.matchBrackets": "never",
+    "editor.occurrencesHighlight": false,
+   "editor.renderLineHighlight": "none",
+   "javascript.format.semicolons": "insert",
+   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+   },
+   // Set the default
+   "editor.formatOnSave": false,
+   // Enable per-language
+   "[javascript]": {
+      "editor.formatOnSave": true
+   },
+   "editor.codeActionsOnSave": {
+      // For ESLint
+      "source.fixAll.eslint": true,
+  },
+ }
